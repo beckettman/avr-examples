@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # AvrStudio Solution File, Format Version 11.00
 Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "BlinkingViaTimer", "BlinkingViaTimer\BlinkingViaTimer.avrgccproj", "{3882D27D-4F99-4892-9AC2-B22FC55614D2}"
 EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "BlinkingViaTimerInterrupt", "BlinkingViaTimerInterrupt\BlinkingViaTimerInterrupt.avrgccproj", "{5AA9A271-4F9C-4B3D-96CD-625CEC4FCF75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -13,6 +15,10 @@ Global
 		{3882D27D-4F99-4892-9AC2-B22FC55614D2}.Debug|AVR.Build.0 = Debug|AVR
 		{3882D27D-4F99-4892-9AC2-B22FC55614D2}.Release|AVR.ActiveCfg = Release|AVR
 		{3882D27D-4F99-4892-9AC2-B22FC55614D2}.Release|AVR.Build.0 = Release|AVR
+		{5AA9A271-4F9C-4B3D-96CD-625CEC4FCF75}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5AA9A271-4F9C-4B3D-96CD-625CEC4FCF75}.Debug|AVR.Build.0 = Debug|AVR
+		{5AA9A271-4F9C-4B3D-96CD-625CEC4FCF75}.Release|AVR.ActiveCfg = Release|AVR
+		{5AA9A271-4F9C-4B3D-96CD-625CEC4FCF75}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
