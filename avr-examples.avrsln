@@ -7,6 +7,8 @@ Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "BlinkingViaTimerInterrupt",
 EndProject
 Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "BlinkingViaHardwareCTC", "BlinkingViaHardwareCTC\BlinkingViaHardwareCTC.avrgccproj", "{94031A68-95A2-4A02-80B2-7F8A76A336D4}"
 EndProject
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "FastPWMServo", "FastPWMServo\FastPWMServo.avrgccproj", "{B907C097-1763-499B-9BAD-E5170ACED1B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -25,6 +27,10 @@ Global
 		{94031A68-95A2-4A02-80B2-7F8A76A336D4}.Debug|AVR.Build.0 = Debug|AVR
 		{94031A68-95A2-4A02-80B2-7F8A76A336D4}.Release|AVR.ActiveCfg = Release|AVR
 		{94031A68-95A2-4A02-80B2-7F8A76A336D4}.Release|AVR.Build.0 = Release|AVR
+		{B907C097-1763-499B-9BAD-E5170ACED1B5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B907C097-1763-499B-9BAD-E5170ACED1B5}.Debug|AVR.Build.0 = Debug|AVR
+		{B907C097-1763-499B-9BAD-E5170ACED1B5}.Release|AVR.ActiveCfg = Release|AVR
+		{B907C097-1763-499B-9BAD-E5170ACED1B5}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
